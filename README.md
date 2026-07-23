@@ -8,7 +8,7 @@ rationalization documents that would precede this in a real project.
 
 ## Demo
 
-![Substation HMI screenshot](screenshots/hmi_screenshot.png)
+![Substation HMI screenshot](Screenshots/hmi_screenshot.png)
 
 ## Documents
 
