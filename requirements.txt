@@ -1,0 +1,6 @@
+pymodbus==3.6.9
+flask
+flask-socketio
+python-socketio
+simple-websocket
+websocket-client
